@@ -67,8 +67,8 @@ struct Menu1
 //задание 1
 void ShowAnum()
 {
-    // Enter_Number(a, "Enter number A: ")();
-    // cout << a << endl;
+    Enter_Number(a, "Enter number A: ")();
+    cout << a << endl;
 }
 
 //задание 2
