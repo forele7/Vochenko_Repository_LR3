@@ -89,10 +89,10 @@ void Operation1()
 // // задание 4
 void Operation2()
 {
-    // Enter_Number(a, "Enter number A: ")();
-    // Enter_Number(b, "Enter number B: ")();
-    // if (b == 0){cout << "На ноль делить нельзя!";}
-    // else {cout << "A/B = " << a/b << endl;}
+    Enter_Number(a, "Enter number A: ")();
+    Enter_Number(b, "Enter number B: ")();
+    if (b == 0){cout << "На ноль делить нельзя!";}
+    else {cout << "A/B = " << a/b << endl;}
 }
 
 int main()
