@@ -81,9 +81,9 @@ void ShowBnum()
 // //задание 3
 void Operation1()
 {
-    // Enter_Number(a, "Enter number A: ")();
-    // Enter_Number(b, "Enter number B: ")();
-    // cout << "A*B = " << a*b << endl;
+    Enter_Number(a, "Enter number A: ")();
+    Enter_Number(b, "Enter number B: ")();
+    cout << "A*B = " << a*b << endl;
 }
 
 // // задание 4
