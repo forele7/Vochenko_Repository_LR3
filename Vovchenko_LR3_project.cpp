@@ -74,8 +74,8 @@ void ShowAnum()
 //задание 2
 void ShowBnum()
 {
-    // Enter_Number(b, "Enter number B: ")();
-    // cout << b << endl;
+    Enter_Number(b, "Enter number B: ")();
+    cout << b << endl;
 }
 
 // //задание 3
